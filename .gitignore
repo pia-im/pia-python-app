@@ -1,0 +1,6 @@
+*~
+*.pyc
+*.sh
+*.diff
+config.json
+data/
